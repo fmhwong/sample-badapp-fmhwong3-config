@@ -31,7 +31,7 @@ app:
   variables:
     - name: io_openliberty_sample_system_inMaintenance
       value: "false"
-  version: ""
+  version: "97337004-ebb5-4b2f-85e5-0810dc640a32"
 # probes
 # dynamic scaling
 # scaling to 0
